@@ -44,7 +44,7 @@ public class Test1 {
 	}
 
 	@Test
-	public void test() {
+	public void validatingVeterinaryHospitals() {
      String clinicsUrl = "https://qa-challenge-api.scratchpay.com/api/clinics";
      String bearerToken = getJWT();
      Response response = given().headers(
