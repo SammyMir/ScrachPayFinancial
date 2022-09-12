@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-12T13:26:13 PDT" name="Default suite" finished-at="2022-09-12T13:26:18 PDT" duration-ms="4655">
+    <groups>
+    </groups>
+    <test started-at="2022-09-12T13:26:13 PDT" name="Default test" finished-at="2022-09-12T13:26:18 PDT" duration-ms="4655">
+      <class name="api_project.scratchpay.Test1">
+        <test-method signature="test()[pri:0, instance:api_project.scratchpay.Test1@614ca7df]" started-at="2022-09-12T13:26:13 PDT" name="test" finished-at="2022-09-12T13:26:17 PDT" duration-ms="3953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="testUserNotAbleToGetListOfEmailAddresses()[pri:0, instance:api_project.scratchpay.Test1@614ca7df]" started-at="2022-09-12T13:26:17 PDT" name="testUserNotAbleToGetListOfEmailAddresses" finished-at="2022-09-12T13:26:18 PDT" duration-ms="632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserNotAbleToGetListOfEmailAddresses -->
+      </class> <!-- api_project.scratchpay.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
